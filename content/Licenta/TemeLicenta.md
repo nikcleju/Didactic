@@ -1,7 +1,7 @@
 
 # List of diploma project ideas
 
-For 2023 and onwards.
+**Updated on 12.04.2022 (for 2023)**
 
 General topics: 
 
