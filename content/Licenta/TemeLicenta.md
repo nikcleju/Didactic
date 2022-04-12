@@ -3,7 +3,6 @@
 
 For 2023 and onwards.
 
-
 General topics: 
 
  - Applications in signal processing: image / video / audio / etc.
