@@ -5,17 +5,21 @@
 
 #######################################################################################
 # Book settings
-title                       : Nicolae Cleju  # The title of the book. Will be placed in the left navbar.
+title                       : | 
+                               Nicolae Cleju,
+                               ETTI, TUIASI
+                                
+                             # The title of the book. Will be placed in the left navbar.
 author                      : Nicolae Cleju  # The author of the book
 copyright                   : "2022"  # Copyright year to be placed in the footer
-#logo                        : logo.png  # A path to the book logo
-exclude_patterns            : [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", "content/IT/*.md"]
+logo                        : Poza.png  # A path to the book logo
+exclude_patterns            : [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints"]
 # Auto-exclude files not in the toc
 only_build_toc_files        : false
 
 # Information about where the book exists on the web
 repository:
-  url                       : https://github.com/nikcleju/JupyBook  # Online location of your book
+  url                       : https://github.com/nikcleju/Didactic  # Online location of your book
   #path_to_book             : .       # Optional path to your book, relative to the repository root
   branch                    : main  # Which branch of the repository should be used when creating links (optional)
 
