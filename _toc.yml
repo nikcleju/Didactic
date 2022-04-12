@@ -1,0 +1,8 @@
+format: jb-book
+root: content/intro
+#options:
+#  numbered: 3
+chapters:
+    - file: content/aboutme
+    - file: content/Licenta/TemeLicenta
+
