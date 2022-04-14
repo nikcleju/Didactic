@@ -4,4 +4,3 @@
     Assoc.Prof.
     Faculty of Electronics, Telecommunications and Information Technology (ETTI)
     Technical University of Iași (TUIASI)
-
