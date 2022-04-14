@@ -13,9 +13,9 @@ General requirements:
   - abilities and interest in programming: Matlab / Python / any other language
   - general knowledge in Digital Signal Processing
 
-
-Below is a list of possible topics. Any other similar topic is possible, after a discussion.
+Below is a list of possible topics. 
 These topics can be modified and adjusted at will.
+Any other similar topic is possible, after a discussion.
 
 ### AI and neural networks
 
