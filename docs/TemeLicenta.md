@@ -10,6 +10,7 @@ General topics:
  - **Any topic that the student is interested in**, in the domain of signal processing. Talk to me about it first. 
  
 General requirements:
+
   - abilities and interest in programming: Matlab / Python / any other language
   - general knowledge in Digital Signal Processing
 
