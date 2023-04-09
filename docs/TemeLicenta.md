@@ -39,7 +39,7 @@ Dataset:
 - https://research.unsw.edu.au/projects/unsw-nb15-dataset
 
 ---
-#### Detecting failures in ball bearings
+#### Failure detection in industrial systems
 
 Use algorithms for anomaly detection from the Python `PyOD` library to detect failures in 
 industrial devices, like ball bearings, based on accelerometer data.
@@ -93,6 +93,11 @@ Implement it live on a Raspberry PI or equivalent.
 
 ---
 
+#### People Counter
+
+Implement an application to detect and count people from images/videos.
+
+
 ### Image/video processing
 
 
@@ -100,7 +105,7 @@ Implement it live on a Raspberry PI or equivalent.
 
 Use image processing algorithms to detect the lanes from a traffic video and understand:
 
-- which line we are currently on
+- which lane we are currently on
 - is there a curve next, or is the road straight
 
 Implement it live on a Raspberry PI or equivalent.
