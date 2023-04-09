@@ -2,7 +2,8 @@ site_name: Nicolae Cleju, ETTI, TUIASI
 
 theme:
 
-  name: material
+  #name: material
+  name: readthedocs
 
   features:
     - toc.integrate
