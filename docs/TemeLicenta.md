@@ -45,6 +45,7 @@ Use algorithms for anomaly detection from the Python `PyOD` library to detect fa
 industrial devices, like ball bearings, based on accelerometer data.
 
 Reference:
+
 - https://www.mdpi.com/2227-9709/8/4/85
 - https://pyod.readthedocs.io/en/latest/
   
