@@ -1,18 +1,18 @@
 
 # Ideas for Diploma Projects
 
-**Updated on 09.04.2023 (for 2024)**
+**Updated on 10.04.2024 (for 2025)**
 
 ## Overview
 
-Below is a list of possible topics. 
+Below is a list of possible topics.
 These topics can be modified and adjusted at will.
 Any other similar topic is possible, after a discussion with me.
 
 - Applications in signal processing: image / video / audio / etc.
-- Embedded devices for acquisition of signals 
-- **Any topic that the student is interested in**, in the domain of signal processing. Talk to me about it first. 
- 
+- Embedded devices for acquisition of signals
+- **Any topic that the student is interested in**, in the domain of signal processing. Talk to me about it first.
+
 ## Requirements for students
 
 Students should have:
@@ -41,14 +41,14 @@ Dataset:
 ---
 #### Failure detection in industrial systems
 
-Use algorithms for anomaly detection from the Python `PyOD` library to detect failures in 
+Use algorithms for anomaly detection from the Python `PyOD` library to detect failures in
 industrial devices, like ball bearings, based on accelerometer data.
 
 Reference:
 
 - https://www.mdpi.com/2227-9709/8/4/85
 - https://pyod.readthedocs.io/en/latest/
-  
+
 ---
 
 #### Other algorithms
@@ -83,7 +83,7 @@ Implement it live on a Raspberry PI or equivalent.
 ![Car Distance Estimator](img/CarDistanceEstimator.png){: style="width:500px"}
 
 ---
-
+<!--
 #### Traffic Sign Detection
 
 Use AI object detection and classification methods for identification of traffic signs.
@@ -91,11 +91,12 @@ Implement it live on a Raspberry PI or equivalent.
 
 ![Traffic Sign](img/TrafficSignDet.png){: style="width:500px"}
 
----
+--- -->
 
 #### People Counter
 
-Implement an application to detect and count people from images/videos.
+Implement an application to detect and count people from images/videos
+and report long-term statistics
 
 
 ### Image/video processing
@@ -117,7 +118,7 @@ Example:
 ![Lane detection](img/LaneDet.png){: style="width:800px"}
 
 ---
-
+<!--
 #### Detection of driver fatigue by video analysis
 
 Implement a method of analyzing a video sequence to estimate the degree of fatigue of a driver, by tracking the eyes and mouth in the images (blinking / yawning).
@@ -126,11 +127,11 @@ References:
 
   - https://github.com/piyushbajaj0704/Driver-Sleep-Detection-Face-Eyes-Mouth-Detection
 
----
+--- -->
 
 #### Image inpainting using sparse representations
- 
-Image inpainting means „filling” some missing pixels or parts of an image. 
+
+Image inpainting means „filling” some missing pixels or parts of an image.
 Implement one of the various methods for this, namely the one based on sparse decompositions of images in the frequency domain.
 
 References:
@@ -140,7 +141,7 @@ References:
 ---
 
 #### Image classification with SVM (or other) algorithms
-   
+
 Implement and evaluate an algorithm for image classification, aiming to detect if a person is or is not wearing a mask.
 
 References:
@@ -151,7 +152,7 @@ References:
 ---
 
 #### Methods for image denoising
-   
+
 Implement and compare a number of methods for reducing the noise in general images or other types of data (based on filtering, different transforms, spline smoothing etc).
 
 Examples:
@@ -170,15 +171,15 @@ References:
 
 ---
 
-#### Motion estimation with optical flow in videos
-   
+<!-- #### Motion estimation with optical flow in videos
+
 Implement one or more algorithms for motion estimation with optical flow, in order to estimate the movement direction and speed of objects in a video sequence.
 
 References:
 
 - https://nanonets.com/blog/optical-flow/
 
----
+--- -->
 
 ### General signal processing with embedded devices
 
